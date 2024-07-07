@@ -19,7 +19,7 @@
   }
   #main {
     width: calc(100% - 20px)!important; 
-    font-size: 16px;
+    font-size: 16px!important;
     background-color: hsl(0, 0%, 100%);
     font-family: 'Outfit';
     margin-top: -30px!important;
