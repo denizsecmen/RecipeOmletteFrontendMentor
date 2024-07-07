@@ -19,7 +19,7 @@
   }
   #main {
     width: calc(100% - 20px)!important; 
-    font-size: 16px!important;
+    font-size: 16px;
     background-color: hsl(0, 0%, 100%);
     font-family: 'Outfit';
     margin-top: -30px!important;
@@ -152,14 +152,14 @@ body{
 }
 #main > #nutrition > ul > li .titl
 {
-  width: 80%;
+  width: 90%;
   color: black;
   font-weight: 400;
   margin-left: 5%;
 }
 #main > #nutrition > ul > li .kcal
 {
-  width: calc(100% - 80%);
+  width: calc(100% - 90%);
   font-weight: 400;
   text-align: center;
 }
